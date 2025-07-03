@@ -11,7 +11,7 @@ Olá! Eu sou o Ramon 👋
 
 ## 🎯 Analista de Suporte Pleno | Estudante de Desenvolvimento e Cybersegurança
 
-Sou um profissional de TI com foco em soluções práticas e automatizadas. 
+Sou profissional de TI com foco em soluções práticas e automatizadas. 
 Atuo como Analista de Suporte Pleno, com foco em manutenção de infraestrutura, atendimento ao usuário e atualmente estou me aprofundando no desenvolvimento web com Python/Django e em Segurança da Informação.
 
 ---
