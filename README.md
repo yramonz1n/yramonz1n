@@ -1,4 +1,4 @@
-👋 Olá! Eu sou o Ramon
+Olá! Eu sou o Ramon 👋 
 
  ## 🧠 Um pouco sobre mim
 
