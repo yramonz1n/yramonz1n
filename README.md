@@ -18,7 +18,7 @@ Atuo como Analista de Suporte Pleno, com foco em manutenção de infraestrutura,
 
 ## 🚀 Em andamento
 
-- 🧠 Estudando: Python | Django | APIs REST | PostgreSQL | HTML/CSS/JS
+- 🧠 Estudando: Python | Django | APIs REST | PostgreSQL | HTML/CSS
 - 🛠️ Projeto pessoal: ERP Web para gestão de imóveis (recibos, contratos, contas, controle de caixa, etc.)
 
 ---
